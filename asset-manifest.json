@@ -1,15 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.4c697222.css",
-    "main.js": "/static/js/main.01a35287.js",
+    "main.js": "/static/js/main.3c4d631c.js",
     "static/js/510.2545da80.chunk.js": "/static/js/510.2545da80.chunk.js",
     "static/media/circle.png": "/static/media/circle.ee494da5ebd3a81d10f3.png",
+    "static/media/light_blue.png": "/static/media/light_blue.f879c3b72baf686a88ec.png",
+    "static/media/turquoise.png": "/static/media/turquoise.8464f4c4d6c64edc96c2.png",
+    "static/media/purple.png": "/static/media/purple.017ccf7be1c6eefe714c.png",
+    "static/media/green.png": "/static/media/green.0cfc95b4c1bc2450ea9e.png",
+    "static/media/light_orange.png": "/static/media/light_orange.35b33729c1002775eb9b.png",
+    "static/media/red.png": "/static/media/red.c338b4921d1cf1abebbb.png",
+    "static/media/blue.png": "/static/media/blue.352508cdf26bf712ebe1.png",
+    "static/media/orange.png": "/static/media/orange.e53bbc974175f68b3610.png",
+    "static/media/yellow.png": "/static/media/yellow.320ff3216aea7947b58d.png",
     "static/media/error.wav": "/static/media/error.94913132a1e83ab9d224.wav",
     "static/media/scan.wav": "/static/media/scan.9b23d06ccde49941c38f.wav",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.4c697222.css",
-    "static/js/main.01a35287.js"
+    "static/js/main.3c4d631c.js"
   ]
 }
